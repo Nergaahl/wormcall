@@ -1,0 +1,12 @@
+###### Intro
+Sunspot rises proudly as the paramount city of [[Wormcall]], its renown is known far and wide across the planet as the cherished capital city. Perched atop [[The Shelf]], a colossal plateau crowned by nature's hand, Sunspot boasts a skyline that blends the remnants of ancient marvels with the rugged grace of [[The Shelf]] itself. Its strategic perch offers a commanding view of the surrounding lands, a testament to both its historical significance and current prominence.
+
+The cityscape of Sunspot is a tapestry woven with elements of old-world charm and faded grandeur. Time-worn spires and weather-beaten towers stand alongside dilapidated remnants of once-glorious structures, hinting at a bygone era when technology danced in harmony with magic. Streets paved with cobblestones wind through the city, bustling with the energy of traders, artisans, and adventurers who traverse its pathways.
+
+Central to Sunspot's allure is the legendary [[1000 Folds Caravanserai]], a bustling marketplace steeped in history and legend. Here, traders from distant realms converge to barter goods of both mundane and mystical nature, their caravans casting shadows on the cobblestone streets as they navigate through the ancient archways and alleys of the caravanserai.
+
+The population of Sunspot, numbering between 15,000 to 25,000 souls, reflects a diverse tapestry of races, cultures, and creeds. Within the city's walls, whispers of forgotten magic and lost technologies echo through the corridors of ancient libraries and arcane workshops. The remnants of old machinery and arcane devices can be glimpsed amidst the city's structures, hinting at a past where science and sorcery walked hand in hand.
+
+Despite the city's technological remnants, Sunspot's charm lies in its ability to blend the old with the new. The ruling council convenes in the time-worn halls of the Citadel, a fortress of stone and iron that stands sentinel atop [[The Shelf]], its battlements weathered by centuries of history and conflict. Here, amidst the ancient stones and faded tapestries, decisions that shape the fate of [[Wormcall]] are deliberated with a reverence for tradition and a nod to progress.
+
+Sunspot, with its melding of medieval aesthetics and remnants of ancient technology, serves as a beacon of resilience and adaptation in the ever-changing landscape of [[Wormcall]]. It is a city where the past whispers secrets to the present, and where the echoes of forgotten ages mingle with the vibrant pulse of life in a realm where magic and machines intertwine.

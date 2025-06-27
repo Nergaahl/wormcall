@@ -1,0 +1,1 @@
+The largest and most profitable caravanserai within the city of [[Sunspot]]. Led by the extremely charismatic [[Pobs]], who is a rotund Tabaxi bard.

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"08937c5f17cdead1","type":"text","text":"**Campaign Kitbash**","x":-140,"y":-20,"width":220,"height":60},
+		{"id":"4b9e78a71db52eb9","type":"text","text":"Dune\n- Water-locked desert planet\n- Presence of giant worms\n- Underground people fighting against some sort of regime","x":-560,"y":-240,"width":300,"height":220},
+		{"id":"27fe5529dc84882f","type":"text","text":"Critical Role\n- Outside god that was locked away inside the planet\n- Struggle to free the god or leave it locked \n- Once great cities that have been buries and still have powerful magic within, but very dangerous","x":-660,"y":60,"width":300,"height":320},
+		{"id":"5b94757fcc2ab460","type":"text","text":"Baldur's Gate 3\n- Elder brain/mindflayer angle\n- Cultists wanting Elder brain to get free and take power\n- A singular mindflayer finding self-thought and defying the elder brain","x":233,"y":-140,"width":480,"height":220},
+		{"id":"166f51e7e7eb8f19","type":"text","text":"Star Wars\n- Duality of the divine","x":50,"y":320,"width":250,"height":100},
+		{"id":"40480bf583178a96","type":"text","text":"WH 40k\n- Necron like race\n- Basis for warforged in the world\n- Mages seeking immortal bodies\n- Corrupted by outside influence","x":-280,"y":290,"width":250,"height":270},
+		{"id":"29cc72a9666eea02","type":"text","text":"HP Lovecraft\n- Elder brain angle = Cthulu elder god angle\n- Cultists still work with this","x":330,"y":130,"width":287,"height":160},
+		{"id":"c96fbe4637e0d4a1","type":"text","text":"Trigun\n- Fallen advanced civilization\n- Some towns have a Western/frontier vibe\n- Guns?","x":-375,"y":-480,"width":345,"height":180},
+		{"id":"1df56442ad320f7c","type":"text","text":"Wheel of Time\n\n- Fast Travel: Waygates that lead to paths in the Shadowfell (Fell Gates?)","x":50,"y":-460,"width":250,"height":200}
+	],
+	"edges":[
+		{"id":"0229a12bcb7b7b40","fromNode":"4b9e78a71db52eb9","fromSide":"right","toNode":"08937c5f17cdead1","toSide":"left","toEnd":"none"},
+		{"id":"220bce8bb78e8373","fromNode":"c96fbe4637e0d4a1","fromSide":"bottom","toNode":"08937c5f17cdead1","toSide":"top","toEnd":"none"},
+		{"id":"5ebb8f9d1bf4357d","fromNode":"27fe5529dc84882f","fromSide":"right","toNode":"08937c5f17cdead1","toSide":"left","toEnd":"none"},
+		{"id":"b20271c69f7fab56","fromNode":"5b94757fcc2ab460","fromSide":"left","toNode":"08937c5f17cdead1","toSide":"right","toEnd":"none"},
+		{"id":"91232811d375161e","fromNode":"29cc72a9666eea02","fromSide":"left","toNode":"08937c5f17cdead1","toSide":"right","toEnd":"none"},
+		{"id":"c324142c62c809d3","fromNode":"166f51e7e7eb8f19","fromSide":"top","toNode":"08937c5f17cdead1","toSide":"bottom","toEnd":"none"},
+		{"id":"4c6084dd8ced91e2","fromNode":"40480bf583178a96","fromSide":"top","toNode":"08937c5f17cdead1","toSide":"bottom","toEnd":"none"},
+		{"id":"abdcf1583fac6c9e","fromNode":"08937c5f17cdead1","fromSide":"top","toNode":"1df56442ad320f7c","toSide":"bottom","toEnd":"none"}
+	]
+}

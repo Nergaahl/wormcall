@@ -1,0 +1,3 @@
+A faction of [[Solmiran Empire]] mages who sought immortality through the fusion of soul and machine, believing this would free them from the Outer God’s corruption. In their desperation, they rushed the process, creating the first Warforged, but many succumbed to the god’s influence, becoming the [[Nullborn]]—soulless, relentless enforcers of its will.
+
+The unaffected Warforged carried on their creators’ legacy, while the corrupted were sealed away in hidden tombs. Now, as the god stirs, these tombs begin to open, and the Nullborn rise once more.

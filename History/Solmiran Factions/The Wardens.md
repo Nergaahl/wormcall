@@ -1,0 +1,9 @@
+The Wardens were the martial and strategic arm of the [[Solmiran Empire]], composed of battle-mages, warlords, and arcane tacticians who believed in meeting the Outer God’s forces head-on. Unlike other factions that sought escape, control, or containment through subtler means, the Wardens saw only one path forward—total war.
+
+Led by the Warden-Lords of [[Solmira]], they commanded vast armies bolstered by magical constructs, living spells, and bio-arcane monstrosities created to counter the god’s influence. Their war engines could reshape battlefields, and their warriors wielded weapons infused with raw cosmic energy. They fought with relentless determination, believing that if they could strike deep enough, wield enough force, they could end the threat permanently.
+
+But as the war dragged on and the true nature of the Outer God became apparent—an entity that could not be slain by mere force—the Wardens were forced into a grim realization. Their last stand was not one of victory, but of necessity. If they could not destroy the god, they would buy the time needed to imprison it. With [[The Arcanum Obscura]] devising containment measures, the Wardens took up the suicidal task of holding the line.
+
+In the final days, the Warden-Kings and their warriors became legends. They fought in the burning skies above their floating cities, in the drowned ruins of fallen metropolises, and at the threshold of the god’s prison itself. Their sacrifices ensured the plan succeeded, but at a terrible cost—their order was annihilated. Only a handful survived to see the god’s binding completed, their once-great armies reduced to ash and memory.
+
+The remnants of the Wardens faded into myth, their weapons lost beneath the sands, their cities buried. But some believe their last command still lingers—waiting for the moment when the god stirs again, when the need for war returns, and when those worthy enough may take up their arms once more.

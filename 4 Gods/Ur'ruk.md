@@ -1,0 +1,7 @@
+To the [[Ishtarel]] and those who walk the deep desert, Ur’ruk is both a guardian and a curse—a vast, unknowable entity that ensures the world remains as it is. Worshiped as a god, feared as a force of nature, and whispered about in half-forgotten legends, Ur’ruk is no ordinary sandworm.
+
+Once an experiment of the ancient mind flayers, Ur’ruk was a great worm infused with eldritch power, meant to serve as the ultimate warden against the imprisoned outer god. But the ritual worked too well. Ur’ruk, no longer bound by its creators, continued to grow, its immense form coiling through the heart of the desert. Its very presence ensures the outer god remains locked away, yet in doing so, it has also sealed away the planet’s lost waters.
+
+The vast, interconnected networks of lesser worms are not simply creatures but extensions of Ur’ruk’s will, forming an endless prison of shifting sand and burrowing flesh. Whether Ur’ruk is truly sentient or simply fulfilling the last command it was given is unknown. Some believe it dreams beneath the dunes, while others claim it watches, waiting for the world to prove itself worthy of change.
+
+To the Ishtarel, Ur’ruk is sacred—a being of trials and tribulations, of survival and strength. To others, it is a monstrous relic of a past war, dooming the land to eternal desolation. Whether god, warden, or something beyond mortal comprehension, one truth remains: as long as Ur’ruk endures, the sands will never yield.

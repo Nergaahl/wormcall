@@ -1,0 +1,23 @@
+## The World of Endless Sands
+Once known as [[Solmira]], the world now called Wormcall bears the scars of an ancient catastrophe that shattered an age of prosperity and bound the land in an endless desert. Millennia ago, a thriving magocracy ruled, their mastery of magic shaping reality itself. Their ambitions, however, drew the gaze of something vast and unknowable—an elder god whose arrival heralded the world's unraveling. In a desperate gambit, the greatest minds of the era forged an alliance to imprison the entity, an act that reshaped the very land itself. What was once fertile and thriving was left arid and broken, its lifeblood sealed away along with the imprisoned god.
+
+Now, the people of Wormcall are resilient survivors, eking out a living amid the unforgiving sands and remnants of a bygone era. Magic and technology, once tools of boundless progress, now exist as relics, scavenged and repurposed by those who seek to reclaim a fraction of the past. Caravans, city-states, and wandering factions traverse the wastes, contending with sandstorms, hidden ruins, and creatures that have adapted to the harsh new reality.
+
+The landscape is one of shifting dunes, rocky plateaus, and ancient ruins, where the echoes of history lie buried beneath the sands. Among the most feared regions is the [[Tavlin Sea]], an expanse of endless dunes where forgotten horrors and forbidden knowledge lie entombed. Scattered throughout the wasteland, oases sustained by remnants of old magic serve as precious sanctuaries, their waters fiercely protected by those who call them home.
+
+Wormcall’s greatest dangers are not just its harsh environment but the colossal sandworms that roam beneath its surface. Born from a being once known as [[Xal’Zirath, The Defier]], they are both protectors and predators—guardians of the prison that holds the elder god at bay, yet mindless forces of destruction.
+
+Amid this unforgiving world, civilization clings to existence atop flat-topped mountains, fortified mesas, and deep underground strongholds. The most renowned city is [[Sunspot]], built atop [[The Shelf]], a vast mountain plateau where remnants of ancient magic and technology still hum beneath its streets. It stands as the heart of trade and power, a beacon of hope in a world shaped by the echoes of the past and the struggle for the future.
+
+## The Conflict
+Two millennia ago, a being of unfathomable madness descended upon [[Solmira]]—a god from the outer realms, threatening to unravel existence itself. [[Zha'Kethis]], the Mind That Devours, sought to consume all thought and reshape reality in its image. The [[Solmiran Empire]], wielding the pinnacle of their arcane and technological mastery, fought a desperate battle.
+
+Unable to destroy it, they forged a grand alliance, enlisting the aid of [[Xal’Zirath, The Defier]], to imprison the entity deep beneath the planet’s surface. In the process, they shattered their once-thriving world, severing the cycle of life-giving waters and transforming the land into the endless desert now known as Wormcall.
+
+Over the many centuries, however, whispers of Zha'Kethis seeped into the minds of the weak-willed and the desperate. The [[Freemind]] has risen in devotion to its return, believing the world was broken not by the god, but by its imprisonment. They see its release as the key to restoring what was lost—though whether that means salvation or annihilation is a question they ignore. Their leaders, powerful beings akin to illithids, are extensions of the god’s will, spreading its influence and orchestrating a grand ritual to unbind it.
+
+Opposing them are the hidden wardens of the old world—those who know the true horror of what lies beneath and have sworn to keep it sealed. Among them are the [[Ishtarel]], the secretive guardians of the deep desert. Others work from the shadows, using knowledge and influence to suppress the truth and prevent catastrophe. [[Eliot Orbson]], enigmatic leader of the [[Orbital Traders]], is one such figure, subtly steering events to ensure Zha’Kethis remains bound.
+
+With the second millennium of the god’s imprisonment approaching, the final phase of the ritual has begun. The Freemind are stealing ancient artifacts, striking at key locations, and sowing discord across Wormcall. The people, unaware of the cosmic horror that stirs beneath their feet, struggle to survive in an already unforgiving world.
+
+Whispers of the coming storm reach all ears. Some may rise to stop it, some may embrace the change it promises, and others may carve their own path through the chaos. But one truth remains: the world will never be the same again.

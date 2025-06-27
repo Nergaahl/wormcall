@@ -1,0 +1,1 @@
+A large plateau where [[Sunspot]] can be found.

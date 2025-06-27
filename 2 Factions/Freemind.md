@@ -1,0 +1,3 @@
+The Freemind believe the world was not broken by the god’s arrival, but by its imprisonment. To them, the ancient mages were tyrants who shackled a divine force of transformation, dooming the world to stagnation and suffering. They seek to undo this mistake, ushering in an age where mortal limitations are erased, and the god’s will reshapes existence.
+
+Led by its illithid-like lieutenants, the Freemind operate in secrecy, stealing ancient artifacts, performing forbidden rituals, and spreading the god’s influence through dreams and whispers. Some join them seeking enlightenment, others for power, and some simply because they have heard the call—and cannot resist.

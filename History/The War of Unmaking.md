@@ -1,0 +1,5 @@
+The War of Unmaking was the [[Solmiran Empire]]’s final stand against the Outer God. As its influence spread, corrupting minds and rewriting reality, the greatest Solmiran archmages and scholars formed desperate contingencies. Some sought to fight directly, others to flee, but the boldest faction chose to imprison the god rather than allow it to consume the world.
+
+The war saw the deployment of arcane superweapons, soul-bound warforged, and cataclysmic magics that shattered the fabric of existence. Entire cities were unmade, and countless lives were lost. The final sealing ritual was successful, but the backlash annihilated much of the empire, leaving behind a wasteland of ruins and untamed magical phenomena.
+
+The war’s scars still linger, and with the god stirring once more, the past threatens to repeat itself.

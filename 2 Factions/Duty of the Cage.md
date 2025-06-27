@@ -1,0 +1,3 @@
+A secretive order sworn to ensure the eldritch god remains imprisoned. They believe its release would mean the annihilation of all free will, twisting reality into the image of an unknowable horror. To prevent this, they erase knowledge of the god’s existence, silence those who would seek it out, and hunt the cultists of the [[Freemind]] wherever they rise.
+
+Though dedicated and relentless, the Duty is dwindling—outnumbered, fractured, and forced into desperate measures to contain a growing threat. To them, the god is not just a prisoner; it is a wound in reality that must never be allowed to heal.

@@ -1,0 +1,13 @@
+- Main conflict
+- Keep things barebones, basic structure, flesh out when players are more interested
+- Create procedural tables (encounters, points of interest, dungeons etc.)
+- Make a list of hooks (outside of the main story)
+- Get goals for characters (session 0)
+- Actions and consequences of the players
+- NPC & Faction agendas + consequences (think STALKER A-life)
+- What side will the players take, if any?
+- What minor conflicts are there - between factions, peoples etc.
+- Factions - main goals and ambitions - history & relationships
+- Tease interactions with factions in the world
+- Lore dump only when necessary
+- 
