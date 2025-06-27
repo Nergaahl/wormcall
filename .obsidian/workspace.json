@@ -206,9 +206,9 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "1192178ce7991baa",
