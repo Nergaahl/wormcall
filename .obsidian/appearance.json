@@ -2,7 +2,7 @@
   "cssTheme": "Obsidian gruvbox",
   "accentColor": "#644590",
   "theme": "obsidian",
-  "textFontFamily": "Noto Sans",
-  "monospaceFontFamily": "Noto Sans Mono",
+  "textFontFamily": "JetBrains Mono,Noto Sans",
+  "monospaceFontFamily": "JetBrains Mono,Noto Sans Mono",
   "interfaceFontFamily": "JetBrains Mono"
 }
