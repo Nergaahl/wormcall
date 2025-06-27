@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "1633e51801eeaf13",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ecf50982a65182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d643b89e3eb9610a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10b21143cca4facf",
+    "type": "split",
+    "children": [
+      {
+        "id": "03e0b232c7dbef65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5e33ac35d1cc7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "376e5c7e8a79971a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a170ac9a9eaf8005",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "14ffde8b2872b924",
+    "type": "split",
+    "children": [
+      {
+        "id": "324848be2fedacfd",
+        "type": "tabs",
+        "dimension": 71.91091954022988,
+        "children": [
+          {
+            "id": "a10091260258380f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wormcall/0 Sandbox/Tables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tables"
+            }
+          },
+          {
+            "id": "bcb26df66196c798",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wormcall/0 Sandbox/Basic map.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basic map"
+            }
+          },
+          {
+            "id": "1d4a78c591e02bb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wormcall/0 Sandbox/Basic map.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basic map"
+            }
+          },
+          {
+            "id": "fa841cd097a56fd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1192178ce7991baa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "cb272f10bd2981e0",
+        "type": "tabs",
+        "dimension": 28.089080459770116,
+        "children": [
+          {
+            "id": "b16ff698f3d1470f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_990a482aebea",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 2,
+                    "year": 1999
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_98181a880999"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "callout-manager:Insert Callout": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "0a5e33ac35d1cc7a",
+  "lastOpenFiles": [
+    "README.md",
+    "Images/ZhaKethisHumanoid.png",
+    "Images/ZhaKethis.webp",
+    "Images/XalZirath The Defier.webp",
+    "Images/SolmiranEmpire.webp",
+    "Images",
+    "History/Solmiran Factions/The Wardens.md",
+    "History/Solmiran Factions/The Starborn.md",
+    "History/Solmiran Factions/The Arcanum Obscura.md",
+    "History/Solmiran Factions/The Aeternal Circle.md",
+    "History/Solmiran Factions/Solmiran Empire.md",
+    "History/Solmiran Factions/Sanctum of the Orb.md",
+    "History/Xal’Zirath, The Defier.md",
+    "History/The War of Unmaking.md",
+    "History/Solmiran Factions",
+    "History/Solmira.md",
+    "History",
+    "5 Scenes/1 Introduction.md",
+    "5 Scenes",
+    "4 Gods/Ur'ruk.md",
+    "4 Gods/Zha'Kethis.md",
+    "4 Gods/The Orb.md",
+    "4 Gods/Light Sun.md",
+    "4 Gods/Dark Void.md",
+    "4 Gods/0 Divinity.md",
+    "4 Gods",
+    "3 NPCs/Thaldrin Stoneforge.md",
+    "3 NPCs/Thalas Brightgaze.md",
+    "3 NPCs/Saria Windwhisper.md",
+    "3 NPCs/Pobs.md",
+    "3 NPCs/Lysa Ironheart.md",
+    "3 NPCs/Kaelen Gearspark.md",
+    "3 NPCs/Garrick Gearspark.md",
+    "3 NPCs/Eliot Orbson.md",
+    "3 NPCs/Dranor Dunewalker.md",
+    "3 NPCs",
+    "2 Factions",
+    "1 Locations/Cities",
+    "1 Locations",
+    "0 Sandbox/Outline.canvas",
+    "0 Sandbox/Kitbash.canvas",
+    "0 Sandbox/Basic map.canvas",
+    "0 Sandbox",
+    "wormcall/0 Sandbox/Basic map.canvas",
+    "wormcall/0 Sandbox/Kitbash.canvas",
+    "wormcall/0 Sandbox/Outline.canvas",
+    "wormcall/Images/ZhaKethisHumanoid.png",
+    "wormcall/Images/SolmiranEmpire.webp",
+    "wormcall/Images/XalZirath The Defier.webp",
+    "wormcall/Images/ZhaKethis.webp"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Wormcall",
+      "description": "The calendar for Wormcall",
+      "id": "ID_990a482aebea",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Ahad",
+            "id": "ID_9ab88b1abbb8"
+          },
+          {
+            "type": "day",
+            "name": "Shani",
+            "id": "ID_88b9e9a99b9b"
+          },
+          {
+            "type": "day",
+            "name": "Tulatha",
+            "id": "ID_8a69a99818f8"
+          },
+          {
+            "type": "day",
+            "name": "Ribia",
+            "id": "ID_586b1afabb5a"
+          },
+          {
+            "type": "day",
+            "name": "Khamis",
+            "id": "ID_b8eb291a8a29"
+          },
+          {
+            "type": "day",
+            "name": "Shish",
+            "id": "ID_09f8d8187ad8"
+          },
+          {
+            "type": "day",
+            "name": "Sabbat",
+            "id": "ID_4a79d9bae8f8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Void",
+            "length": 28,
+            "id": "ID_0ab9780a599a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Forbidden",
+            "length": 28,
+            "id": "ID_9a3b7a59a9b8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "First Spring",
+            "length": 28,
+            "id": "ID_1918ba6adb09",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Scattering",
+            "length": 28,
+            "id": "ID_bbda181af92a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Parched Land",
+            "length": 28,
+            "id": "ID_1b896a5bdbfa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Honor",
+            "length": 28,
+            "id": "ID_1a39bb3b5bca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Burning Heat",
+            "length": 28,
+            "id": "ID_ebbbc838380a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Raised",
+            "length": 28,
+            "id": "ID_4adb3b2b980a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "The One of Truce",
+            "length": 28,
+            "id": "ID_bbf87aeac8cb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "The Pilgrimage",
+            "length": 28,
+            "id": "ID_abd9b95ad9bb",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Arrakas",
+            "cycle": 28,
+            "offset": 0,
+            "faceColor": "#a3c2ff",
+            "shadowColor": "#000",
+            "id": "ID_d84a4bd97a4b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 1,
+        "month": 2,
+        "year": 1999
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1621850847,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_990a482aebea",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}

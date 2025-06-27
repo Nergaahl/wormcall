@@ -1,0 +1,20 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "example": [
+        {
+          "changes": {
+            "icon": "lucide-info",
+            "color": "168, 130, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
