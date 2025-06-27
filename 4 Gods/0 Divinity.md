@@ -4,4 +4,4 @@ The Light embodies creation, order, and renewal. It is the force of civilization
 
 The Void embodies entropy, transformation, and the unknown. It is the force of change, mystery, and personal freedom, but in excess, it can lead to destruction, corruption, or oblivion.
 
-Different cultures, faiths, and individuals interpret these forces in their own ways, shaping their beliefs, magic, and actions accordingly. Some seek balance, while others believe one must ultimately overcome the other. Faith in [[Solmira]] is deeply personal—there are no absolute truths, only perspectives.
+Different cultures, faiths, and individuals interpret these forces in their own ways, shaping their beliefs, magic, and actions accordingly. Some seek balance, while others believe one must ultimately overcome the other. Faith in [[Solmiradeeznuts]] is deeply personal—there are no absolute truths, only perspectives.
