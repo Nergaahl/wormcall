@@ -154,8 +154,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -185,8 +185,8 @@
                 },
                 "id": "ID_98181a880999"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -197,14 +197,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "callout-manager:Insert Callout": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "0a5e33ac35d1cc7a",
