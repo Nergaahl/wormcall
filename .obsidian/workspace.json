@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Solmiradeeznuts.md",
+                "file": "4 Gods/Zha'Kethis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solmiradeeznuts"
+              "title": "Zha'Kethis"
             }
           }
         ]
@@ -211,13 +211,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1192178ce7991baa",
+  "active": "d643b89e3eb9610a",
   "lastOpenFiles": [
-    "README.md",
-    "Images/ZhaKethisHumanoid.png",
+    "4 Gods/Ur'ruk.md",
+    "4 Gods/The Orb.md",
+    "4 Gods/Light Sun.md",
+    "4 Gods/Dark Void.md",
+    "4 Gods/0 Divinity.md",
+    "5 Scenes/1 Introduction.md",
     "Images/ZhaKethis.webp",
+    "Images/ZhaKethisHumanoid.png",
     "Images/XalZirath The Defier.webp",
     "Images/SolmiranEmpire.webp",
+    "History/Xal’Zirath, The Defier.md",
+    "History/The War of Unmaking.md",
+    "History/Solmira.md",
+    "README.md",
     "Images",
     "History/Solmiran Factions/The Wardens.md",
     "History/Solmiran Factions/The Starborn.md",
@@ -225,19 +234,10 @@
     "History/Solmiran Factions/The Aeternal Circle.md",
     "History/Solmiran Factions/Solmiran Empire.md",
     "History/Solmiran Factions/Sanctum of the Orb.md",
-    "History/Xal’Zirath, The Defier.md",
-    "History/The War of Unmaking.md",
     "History/Solmiran Factions",
-    "History/Solmiradeeznuts.md",
     "History",
-    "5 Scenes/1 Introduction.md",
     "5 Scenes",
-    "4 Gods/Ur'ruk.md",
     "4 Gods/Zha'Kethis.md",
-    "4 Gods/The Orb.md",
-    "4 Gods/Light Sun.md",
-    "4 Gods/Dark Void.md",
-    "4 Gods/0 Divinity.md",
     "4 Gods",
     "3 NPCs/Thaldrin Stoneforge.md",
     "3 NPCs/Thalas Brightgaze.md",
@@ -247,7 +247,6 @@
     "3 NPCs/Kaelen Gearspark.md",
     "3 NPCs/Garrick Gearspark.md",
     "3 NPCs/Eliot Orbson.md",
-    "3 NPCs/Dranor Dunewalker.md",
     "3 NPCs",
     "2 Factions",
     "1 Locations/Cities",

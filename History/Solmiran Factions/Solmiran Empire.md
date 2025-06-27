@@ -2,4 +2,4 @@ The Solmiran Empire was a high-magic civilization where arcane power and technol
 
 However, their ambition led them to the brink when they encountered the Outer God—a force beyond their understanding. In a desperate bid to prevent total annihilation, they enacted their final gambit: imprisoning the god at the cost of their own empire. The resulting cataclysm shattered their cities, turned fertile lands into endless deserts, and left only scattered remnants of their once-great power.
 
-Today, the ruins of [[Solmiradeeznuts]] still hum with dormant magic, waiting to be uncovered by those brave or foolish enough to seek them.
+Today, the ruins of [[Solmira]] still hum with dormant magic, waiting to be uncovered by those brave or foolish enough to seek them.
