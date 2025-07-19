@@ -87,7 +87,7 @@
       {
         "id": "324848be2fedacfd",
         "type": "tabs",
-        "dimension": 71.91091954022988,
+        "dimension": 71.84813753581662,
         "children": [
           {
             "id": "a10091260258380f",
@@ -168,7 +168,7 @@
       {
         "id": "cb272f10bd2981e0",
         "type": "tabs",
-        "dimension": 28.089080459770116,
+        "dimension": 28.15186246418338,
         "children": [
           {
             "id": "b16ff698f3d1470f",
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c428c34305440e9",
+  "active": "1192178ce7991baa",
   "lastOpenFiles": [
     "0 Sandbox/Wormcall.md",
     "test for push.md",
